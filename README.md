@@ -1,9 +1,10 @@
-***********************************************************************
-***      PROYECTO DE ADMINISTRACION DE BASE DE DATOS UDLA			      ***
-***     Desarrollado por: Oliver Vera								              	***
-***					              David Revelo							      		      ***
-***					              Byron Paredes								            	***
-***					              Oscar Ramos									              ***
+      PROYECTO DE ADMINISTRACION DE BASE DE DATOS UDLA			      
+      Desarrollado por:
+                        Oliver Vera								              	
+					              David Revelo							      		      
+					              Byron Paredes								            	
+					              Oscar Ramos						
+      Fecha: 02 Junio 2024
 ***********************************************************************
 
 En el link adjunto podras encontrar la Máquina Virtual con la que realizo el proyecto.
